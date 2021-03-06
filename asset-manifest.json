@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ahmed5halaf/Breaking-bad-API/static/css/main.3954315e.chunk.css",
+    "main.js": "/Ahmed5halaf/Breaking-bad-API/static/js/main.7fb1b699.chunk.js",
+    "main.js.map": "/Ahmed5halaf/Breaking-bad-API/static/js/main.7fb1b699.chunk.js.map",
+    "runtime-main.js": "/Ahmed5halaf/Breaking-bad-API/static/js/runtime-main.00472b7a.js",
+    "runtime-main.js.map": "/Ahmed5halaf/Breaking-bad-API/static/js/runtime-main.00472b7a.js.map",
+    "static/js/2.edf43e64.chunk.js": "/Ahmed5halaf/Breaking-bad-API/static/js/2.edf43e64.chunk.js",
+    "static/js/2.edf43e64.chunk.js.map": "/Ahmed5halaf/Breaking-bad-API/static/js/2.edf43e64.chunk.js.map",
+    "index.html": "/Ahmed5halaf/Breaking-bad-API/index.html",
+    "static/css/main.3954315e.chunk.css.map": "/Ahmed5halaf/Breaking-bad-API/static/css/main.3954315e.chunk.css.map",
+    "static/js/2.edf43e64.chunk.js.LICENSE.txt": "/Ahmed5halaf/Breaking-bad-API/static/js/2.edf43e64.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ahmed5halaf/Breaking-bad-API/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/Ahmed5halaf/Breaking-bad-API/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/Ahmed5halaf/Breaking-bad-API/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00472b7a.js",
+    "static/js/2.edf43e64.chunk.js",
+    "static/css/main.3954315e.chunk.css",
+    "static/js/main.7fb1b699.chunk.js"
+  ]
+}
